@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Akhil Nath
 description         : >-
-                      Hi! I am a Masters in Management Student at Technical University of Munich (2020- Ongoing) with a passion for data analytics and machine learning. The elements that excite me through the data analytics career path journey is the discovery, the insights, and the innovation. I am enjoying the unique problem solving challenge each project provides. 
+                      Hi! I am a Masters in Management Student at Technical University of Munich (2020- Ongoing) with a passion for data analytics. The elements that excite me through the data analytics career path journey is the discovery, the insights, and the innovation. I am enjoying the unique problem solving challenge the field provides. 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : akhil.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : John Doe
-  image             : https://i.imgur.com/gop1wGO.jpg
+  image             : https://i.imgur.com/DDgqGJT.jpg
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
