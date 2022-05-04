@@ -1,7 +1,7 @@
 ---
 name: Cookie Data Analysis and Lead Prediction.md
 tools: [Python, Tableau, AWS, Docker, FastAPI]
-image: https://i.imgur.com/lgKBLwY.png
+image: https://i.imgur.com/oHKiHKR.png
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
 ---
 
