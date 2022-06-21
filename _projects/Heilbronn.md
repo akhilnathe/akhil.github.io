@@ -1,7 +1,7 @@
 ---
 name: Heilbronn House Price Analysis
-tools: [Python,Octoparse,Tableau, AWS, Docker, FastAPI]
-image:https://az659834.vo.msecnd.net/eventsairwesteuprod/production-atpi public/63f2c4be405e4a4b8d7478153e64fa93
+tools: [Python,Octoparse,Tableau,Docker,FastAPI]
+image:https://i.imgur.com/DWNdgbV.jpg
 
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
 ---
@@ -11,4 +11,4 @@ In this project study paper, I focused on analysing house and apartment prices i
 
 After collecting the necessary literature, then the data was scraped from the online listing portals succh as immobilienscout and Immonet. This data was cleaned and then processed for further processing. Exploratory data anaysis was done to get a bigger picture and xgboost machine learning model was used for prediction of housing prices based on different features such as location, number of rooms, the area in square meteres. Feature engineering was also performed to get an estimate of how different features affected the pricing.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvwv1NU4-T_bVzY4MufDC_n_I0f79433jZM1UIXPSvIs8G3jzzVaQkjgBWmDoXHQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvwv1NU4-T_bVzY4MufDC_n_I0f79433jZM1UIXPSvIs8G3jzzVaQkjgBWmDoXHQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
