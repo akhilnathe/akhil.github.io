@@ -11,5 +11,5 @@ Target marketing is the process of identifying the potential leads and focusing 
 
 Also the geographical distribution of target customer segments is identified with unsupervised machine learning models.With the K-means clustering algorithm, the entire German market was divided into three segments - high, medium, and low preference groups for the target vehicle types. The cluster analysis output was later visualized using Tableau.The machine learning models are deployed as FastAPI in Heroku Cloud for production. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHzVCNN8mSBZLWCqb2gvRgvYRBQRZf92anqwgZF80RTMaYIDUfJpNgsMclM605_g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHzVCNN8mSBZLWCqb2gvRgvYRBQRZf92anqwgZF80RTMaYIDUfJpNgsMclM605_g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
