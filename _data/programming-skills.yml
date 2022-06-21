@@ -4,7 +4,7 @@
 
 - name: R
   percentage: 60
-  color:success
+  color: success
 
 - name: SQL
   percentage: 80
