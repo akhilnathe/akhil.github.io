@@ -1,8 +1,7 @@
 ---
-name: Heilbronn House Price Analysis
-tools: [Python,Octoparse,Tableau,Docker,FastAPI]
-image:https://i.imgur.com/DWNdgbV.jpg
-
+name: Housing Price Analysis
+tools: [Python, Tableau, Docker, FastAPI, Octoparse,WebScraping]
+image: https://i.imgur.com/DWNdgbV.jpg
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
 ---
 
