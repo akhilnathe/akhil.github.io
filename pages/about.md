@@ -7,8 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi! I am a fourth semesters Masters in Management Student at Technical University of Munich. Its a unique program in which only those from Engineering background are admitted and then taught the basics of management topics such as Marketing, Accounting, Finance. I have chose my elective courses in such a way that it focuses on Data Analytics and Machine Learning.I am motivated to pursue my career in the field of analytics and storytelling with data.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
