@@ -2,7 +2,7 @@
 name: Cookie Data Analysis and Lead Prediction
 tools: [Python, Tableau, AWS, Docker, FastAPI]
 image: https://i.imgur.com/oHKiHKR.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description:  The aim is to enable the car manufacturer to formulate its marketing mix by training machine learning models to predict whether the customer is a potential lead and also the car models he is interested in.
 ---
 
 # Cookie Data Analysis and Lead Prediction
