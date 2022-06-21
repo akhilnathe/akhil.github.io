@@ -1,7 +1,21 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Tablueau
+  percentage: 80
+  color: success
+
+- name: PowerBI
+  percentage: 60
+  color: success
+
+- name: Docker
+  percentage: 60
+  color: success
+
+- name: FastAPI
+  percentage: 60
+  color: success
+
+
+- name: MSOffice
+  percentage: 80
   color: success
