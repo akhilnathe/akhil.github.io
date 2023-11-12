@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Akhil Nath
 description         : >-
-                      Hi! I am a Masters in Management Student at Technical University of Munich (2020- Ongoing) with a passion for data analytics. It is the discovery, the insights, and the innovation elements that excite me the most in this journey.
+                      Hi! I am currently working as a Data Scientist at Deloitte. I did my Masters from Technical University of Munich (2020- 2022) with a passion for data science and python programming. It is the discovery, the insights, and the innovation elements that excite me the most in this journey.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : akhil.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -34,7 +34,7 @@ author:
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : akhilnathe
-#  medium            : your_username
+ medium            : akhilnathe
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
