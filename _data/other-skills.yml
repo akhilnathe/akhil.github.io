@@ -10,11 +10,3 @@
 - name: Docker
   percentage: 60
   color: success
-
-- name: FastAPI
-  percentage: 60
-  color: success
-
-- name: AWS
-  percentage: 60
-  color: success
